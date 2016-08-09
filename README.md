@@ -7,6 +7,11 @@ https://www.facebook.com/groups/177047792707557/
 Recursos que Frecuenta la comunidad:
 - https://developer.mozilla.org/es/
 
+Cursos Gratuitos que gustan a la comunidad en texto:
+- [Curso completo de Git](https://git-scm.com/book/es/v1)
+- [Curso basico de NodeJs](http://www.tutorialesprogramacionya.com/javascriptya/nodejsya/index.php?inicio=0)
+- [Expresiones Regulares](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+
 Algunos Blogs que la Comunidad Frecuenta:
 - [http://www.nodenica.com/](http://www.nodenica.com/)
 - [http://javascriptya.com.ar](javascriptya.com.ar)
@@ -14,18 +19,29 @@ Algunos Blogs que la Comunidad Frecuenta:
 - [https://carlosazaustre.es](https://carlosazaustre.es)
 - [http://www.falconmasters.com](http://www.falconmasters.com/)
 
-Frameworks Javascript para Juegos:
-- ImpactJS game engine. Buy at www.impactjs.com.
-
 Herramientas que proponemos:
 - [Navegador Firefox con Firebug ](https://www.mozilla.org/es-ES/firefox/developer/)
 - [Tener su propio repositorio en Github](https://github.com/)
-- http://staruml.io/
-- https://www.gitkraken.com/
+- [Herramienta de Modelado Uml](http://staruml.io/)
+- [Aplicacion para Hacer un Uso mas facil de GIT](https://www.gitkraken.com/)
 
-Cursos Gratuitos que gustan a la comunidad en texto:
-- [Curso completo de Git](https://git-scm.com/book/es/v1)
-- [Curso basico de NodeJs](http://www.tutorialesprogramacionya.com/javascriptya/nodejsya/index.php?inicio=0)
+Frameworks Javascript para Juegos:
+- [ImpactJS](www.impactjs.com.)
+
+
+
+Documentaciones mas frecuentadas:
+- [ejs](www.embeddedjs.com)
+- [jade](http://jade-lang.com/tutorial/)
+- [less](http://lesscss.org))
+- [stylus]((http://learnboost.github.io/stylus)
+- [Compass](http://compass-style.org)
+
+Editores de Texto Gratuitos:
+- [Vim](www.vim.org)
+- [Emacs](www.gnu.org/software/emacs/)
+- [sublimetext 2](www.sublimetext.com)
+- [TextMate](http://macromates.com)
 
 Hostings para apps en Js:
 - https://www.heroku.com/
