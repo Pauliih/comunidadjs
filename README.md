@@ -12,7 +12,6 @@ Algunos Blogs que la Comunidad Frecuenta:
 - [http://javascriptya.com.ar](javascriptya.com.ar)
 - [http://www.flaviocorpa.com/](http://www.flaviocorpa.com/#open)
 - [https://carlosazaustre.es](https://carlosazaustre.es)
-- [http://www.flaviocorpa.com/](http://www.flaviocorpa.com/)
 - [http://www.falconmasters.com](http://www.falconmasters.com/)
 
 Frameworks Javascript para Juegos:
@@ -20,13 +19,13 @@ Frameworks Javascript para Juegos:
 
 Herramientas que proponemos:
 - [Navegador Firefox con Firebug ](https://www.mozilla.org/es-ES/firefox/developer/)
-- [Tener su propio repositorio](https://github.com/)
+- [Tener su propio repositorio en Github](https://github.com/)
 - http://staruml.io/
 - https://www.gitkraken.com/
 
-Cursos Gratuitos que se le ha gustado a la comunidad en texto:
-- [Git](https://git-scm.com/book/es/v1)
-- [NodeJs](http://www.tutorialesprogramacionya.com/javascriptya/nodejsya/index.php?inicio=0)
+Cursos Gratuitos que gustan a la comunidad en texto:
+- [Curso completo de Git](https://git-scm.com/book/es/v1)
+- [Curso basico de NodeJs](http://www.tutorialesprogramacionya.com/javascriptya/nodejsya/index.php?inicio=0)
 
 Hostings para apps en Js:
 - https://www.heroku.com/
