@@ -35,6 +35,11 @@ Robots programados con Javascript:
 
 Proyectos que Nos gustan:
 - [https://brave.com/](https://brave.com/)
+- [http://mongotron.io/#/](http://mongotron.io/#/)
+
+Suscripciones para correo, recibiaras actualizaciones, empleos, y tutoriales;
+- [http://javascriptweekly.com/](http://javascriptweekly.com/)
+- [http://nodeweekly.com/](http://nodeweekly.com/)
 
 Algunos Recursos en Ingles, Altamente recomendados:
 Plataformas de Educacion:
@@ -44,6 +49,7 @@ Plataformas de Educacion:
 Blogs:
 - [http://thejackalofjavascript.com/](http://thejackalofjavascript.com/)
 - [https://johnpapa.net/](https://johnpapa.net/)
+- [http://javascriptissexy.com/archives](http://javascriptissexy.com/archives)
 
 Conferencias:
 - http://jsconf.com/
