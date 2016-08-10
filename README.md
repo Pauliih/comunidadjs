@@ -26,18 +26,18 @@ Herramientas que proponemos:
 - [Aplicacion para Hacer un Uso mas facil de GIT](https://www.gitkraken.com/)
 
 Frameworks Javascript para Juegos:
+- [Quintus](http://www.html5quintus.com/)
 - [ImpactJS](www.impactjs.com.)
-
-
 
 Documentaciones mas frecuentadas:
 - [ejs](www.embeddedjs.com)
 - [jade](http://jade-lang.com/tutorial/)
 - [less](http://lesscss.org))
-- [stylus]((http://learnboost.github.io/stylus)
+- [stylus](http://learnboost.github.io/stylus)
 - [Compass](http://compass-style.org)
 
 Editores de Texto Gratuitos:
+- [Atom](https://atom.io/)
 - [Vim](www.vim.org)
 - [Emacs](www.gnu.org/software/emacs/)
 - [sublimetext 2](www.sublimetext.com)
@@ -52,6 +52,7 @@ Robots programados con Javascript:
 Proyectos que Nos gustan:
 - [https://brave.com/](https://brave.com/)
 - [http://mongotron.io/#/](http://mongotron.io/#/)
+- [https://archive.org/](https://archive.org/)
 
 Suscripciones para correo, recibiaras actualizaciones, empleos, y tutoriales;
 - [http://javascriptweekly.com/](http://javascriptweekly.com/)
@@ -61,6 +62,7 @@ Algunos Recursos en Ingles, Altamente recomendados:
 Plataformas de Educacion:
 - [https://www.udacity.com/](https://www.udacity.com/)
 - [https://www.coursera.org/](https://www.coursera.org/)
+- [Muchos Recursos para aprender Javascript](http://bafflednerd.com/learn-javascript-online/);
 
 Blogs:
 - [http://thejackalofjavascript.com/](http://thejackalofjavascript.com/)
